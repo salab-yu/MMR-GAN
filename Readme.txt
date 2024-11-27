@@ -31,4 +31,4 @@ If you wish to contribute to this project, please fork the repository and submit
 Reference
 For more detailed information on the MMR-GAN and its applications, please refer to the following paper
 Title: Mechanical property evaluation of 3D multi-phase cement paste microstructures reconstructed using generative adversarial networks
-Link: [https://www.sciencedirect.com/science/article/pii/S095894652400218X](https://www.sciencedirect.com/science/article/pii/S095894652400218X)
+Link: https://www.sciencedirect.com/science/article/pii/S095894652400218X
