@@ -27,3 +27,8 @@ The output will include reconstructed 2D and 3D images saved as .txt files, whic
 
 Contributing
 If you wish to contribute to this project, please fork the repository and submit a pull request. Make sure to include detailed descriptions of your changes.
+
+Reference
+For more detailed information on the MMR-GAN and its applications, please refer to the following paper
+Title: Mechanical property evaluation of 3D multi-phase cement paste microstructures reconstructed using generative adversarial networks
+Link: [https://www.sciencedirect.com/science/article/pii/S095894652400218X](https://www.sciencedirect.com/science/article/pii/S095894652400218X)
